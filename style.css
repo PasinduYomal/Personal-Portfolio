@@ -55,7 +55,7 @@ body {
 #welcome-section {
 	background-size: cover;
   text-align: center;
-	height: 100vh;
+	height: 100%;
   width: auto;
 	color: white;
   margin-top: 130px;
